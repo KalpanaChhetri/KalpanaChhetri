@@ -49,4 +49,4 @@
 
 Feel free to reach out if you have any questions or suggestions!
 
-- [LinkedIn] (https://www.linkedin.com/in/kalpana-chhetri-33680b3a6)
+- [LinkedIn](https://www.linkedin.com/in/kalpana-chhetri)
