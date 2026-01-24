@@ -1,5 +1,6 @@
-# 💫 About Me:
-👋 Hi, I’m Kalpana Chhetri<br>I’m a Full Stack Developer with a strong focus on building scalable web solutions and mastering modern technologies. As a Computer Science Engineering student, I’m committed to continuous learning and innovation. My expertise spans across modern web technologies, including MERN/PERN stacks, and I’m always eager to learn and adapt to new challenges. Additionally, I’m passionate about cybersecurity and keen on exploring its evolving challenges.
+
+##👋 Hi, I’m Kalpana Chhetri
+<br>I’m a Full Stack Developer with a strong focus on building scalable web solutions and mastering modern technologies. As a Computer Science Engineering student, I’m committed to continuous learning and innovation. My expertise spans across modern web technologies, including MERN/PERN stacks, and I’m always eager to learn and adapt to new challenges. Additionally, I’m passionate about cybersecurity and keen on exploring its evolving challenges.
 
 
 ## 🌐 Socials:
