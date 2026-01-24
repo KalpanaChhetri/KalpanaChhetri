@@ -18,8 +18,7 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![EJS](https://img.shields.io/badge/ejs-%23A91F2C.svg?style=for-the-badge&logo=ejs&logoColor=white) 
-![Serverless](https://img.shields.io/badge/serverless-%234B6A3D.svg?style=for-the-badge&logo=serverless&logoColor=white)
+
 
 **Database Management:**
 
@@ -50,6 +49,4 @@
 
 Feel free to reach out if you have any questions or suggestions!
 
--
-- [GitHub]
-- [LinkedIn](https://www.linkedin.com/in/adityadhiman-in
+- [LinkedIn] (https://www.linkedin.com/in/kalpana-chhetri-33680b3a6)
